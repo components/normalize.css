@@ -1,0 +1,12 @@
+{
+    "name": "normalize-css",
+    "version": "1.1.2",
+    "main": "normalize.css",
+    "author": "Nicolas Gallagher",
+    "ignore": [
+        "CHANGELOG.md",
+        "component.json",
+        "composer.json",
+        "test.html"
+    ]
+}
