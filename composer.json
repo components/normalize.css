@@ -4,9 +4,6 @@
     "type": "component",
     "homepage": "http://necolas.github.com/normalize.css/",
     "license": "MIT",
-    "require": {
-        "robloach/component-installer": "*"
-    },
     "extra": {
         "component": {
             "name": "normalize-css",
